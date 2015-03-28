@@ -4,6 +4,7 @@
 <suite name="Suite1">
 	<test name="test3xx">
 		<classes>
+			<class name="org.wso2.mtom.suitesetup.TestSuiteSetup" /> 
 			<class name="org.wso2.mtom.client.ESBMTOMClient" />
 		</classes>
 	</test>
